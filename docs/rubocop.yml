@@ -6,6 +6,9 @@ ClassLength:
 
 ModuleLength:
   Max: 500
+  
+BlockLength:
+  Max: 100
 
 Rails:
   Enabled: false
